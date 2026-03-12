@@ -38,7 +38,7 @@ export function Contact() {
     title: "당근마켓",
     company: "",
     experience: "",
-    phone: "인게임 친구가 아닌 분들은",
+    phone: "친구가 아닌 분들은",
     email: "쪽지 부탁드려요",
     website: "",
     location: " 챕명당",
@@ -48,10 +48,10 @@ export function Contact() {
     sectionSubtitle: "Hi",
     qrTitle: "QR 코드로 연락처 저장",
     qrSubtitle: "스캔하면 연락처가 자동으로 저장됩니다",
-    bottomMessage: "쾌적한 로스트사가를 원합니다!",
-    bottomSubMessage: "로퀴벌레로부터의 해방을!",
+    bottomMessage: "고아새끼들이 판치는 2026년의 로스트사가를 구원할 타임게이트 구세주, 챕니입니다.",
+    bottomSubMessage: "챕니의 비전에 합류하라",
     qrContent: ["name","phone","email","location","website"],
-    profileEmoji: "🥕",
+    profileEmoji: "👽",
     background: {"image":"","video":"","color":"","opacity":0.1}
   }
   
@@ -60,7 +60,12 @@ export function Contact() {
     {
       "name": "새 링크",
       "icon": "globe",
-      "url": "https://vfun-ko.valofe.com/bridge/?islauncher=0&url=https%3A%2F%2Flostsaga-ko.valofe.com%2Fcommunity%2Fview.asp%3Fgroup%3Dfree%26board%3D%26idx%3D5423906&t=t"
+      "url": "https://vfun-ko.valofe.com/bridge/?islauncher=0&url=https%3A%2F%2Flostsaga-ko.valofe.com%2Fmyhomepy%2Fgame_info.asp%3Fmaster%3D1359c3cc8ebaa9&t=t"
+    },
+    {
+      "name": "새 링크",
+      "icon": "globe",
+      "url": "https://vfun-ko.valofe.com/bridge/?islauncher=0&url=https%3A%2F%2Flostsaga-ko.valofe.com%2Fguild%2Fguestbook.asp%3F171655&t=t"
     }
   ]
   

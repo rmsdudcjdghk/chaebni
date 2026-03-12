@@ -96,13 +96,13 @@ export function About() {
   const { getData, saveData, isEditMode, saveToFile } = useInlineEditor()
   // 기본 데이터
   const defaultInfo = {
-    title: "길드장 소개",
-    subtitle: "셀털 하지 않는 선에서요",
+    title: "챕명당",
+    subtitle: " ",
     background: {"image":"","video":"","color":"","opacity":0.1},
-    experienceCards: [{"icon":"user","title":"from State College, PA","period":" ","description":" "},{"icon":"graduation","title":"헬리콥터맘 독재기간","period":"미탐 이강 대러 프로세스","description":" "},{"icon":"graduation","title":"강남대성","period":"나때는 시대보다 강대였음","description":" "},{"icon":"graduation","title":"한양대학교","period":"에 입학실패","description":" "}],
+    experienceCards: [{"icon":"star","title":"챕명당 비밀번호","period":"비밀번호 : 챕니","description":"(수시 변경될 수 있습니다)"}],
     skills: [{"icon":"star","title":"낚시충","description":"낚시터는 길드장이 구매해요."},{"icon":"star","title":"룩딸러","description":"스킨과 코스튬이 중요해요."},{"icon":"star","title":"유쾌함","description":"승패가 중요하지 않아요."}],
     storyTitle: "쾌적한 로스트사가 하는 법 특강",
-    story: ["1. 반드시 ' 친구 외 채팅끄기 ' 기능을 ON 할 것.","2. 제 1법칙을 절대 어기지 말 것.","3. 당근마켓 길드에 가입할 것."],
+    story: ["1. 반드시 설정에서 \"친구 외 채팅끄기\" 기능을 ON 할 것.","2. 제 1법칙을 절대 어기지 말 것.","3. 챕니랑 친추할 것.","4. 당근마켓 길드에 가입할 것."],
     storyImage: "/uploads/about-image-1773304539345.jpg",
     hobbies: ["🎨 스킨","🐟 낚시","❤️ 룩딸"]
   }

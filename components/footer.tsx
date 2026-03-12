@@ -24,7 +24,7 @@ export function Footer() {
   const defaultInfo = {
     showFooter: true,
     name: "챕니",
-    description: "타임게이트 구세주입니다",
+    description: "분홍머리음양사",
     showQuickLinks: true,
     quickLinksTitle: "챕니",
     showContactInfo: true,

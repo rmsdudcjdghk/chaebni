@@ -33,18 +33,18 @@ export function Hero() {
   const { getData, saveData, isEditMode, saveToFile, saveFieldToFile } = useInlineEditor()
   
   // 초기 데이터 - 배열 형태로 변경
-  const defaultSocialLinks = [{"name":"챕니","icon":"globe","url":"https://vfun-ko.valofe.com/bridge/?islauncher=0&url=https%3A%2F%2Flostsaga-ko.valofe.com%2Fcommunity%2Fview.asp%3Fgroup%3Dfree%26board%3D%26idx%3D5423906&t=t"},{"name":"당근마켓","icon":"globe","url":"https://vfun-ko.valofe.com/bridge/?islauncher=0&url=https%3A%2F%2Flostsaga-ko.valofe.com%2Fguild%2Fguestbook.asp%3F171655&t=t"}]
+  const defaultSocialLinks = [{"name":"새 링크","icon":"globe","url":"https://vfun-ko.valofe.com/bridge/?islauncher=0&url=https%3A%2F%2Flostsaga-ko.valofe.com%2Fmyhomepy%2Fgame_info.asp%3Fmaster%3D1359c3cc8ebaa9&t=t"},{"name":"새 링크","icon":"globe","url":"https://vfun-ko.valofe.com/bridge/?islauncher=0&url=https%3A%2F%2Flostsaga-ko.valofe.com%2Fguild%2Fguestbook.asp%3F171655&t=t"}]
   
   const defaultInfo = {
     greeting: "분홍머리음양사",
     name: "챕니",
     title: "타임게이트 구세주",
-    description: "쾌적하게 로사하고싶다면 당근마켓 길드 가입!",
+    description: "설명할 시간이 없어! 어서 타!",
     profileImage: "/uploads/hero-profile-1773303795060.jpg",
     backgroundImage: "",
     backgroundVideo: "",
     backgroundOpacity: 0.1,
-    projectButton: "Join us",
+    projectButton: "Get on board",
     background: {"image":"","video":"","color":"#fa0092","opacity":0.1}
   }
 

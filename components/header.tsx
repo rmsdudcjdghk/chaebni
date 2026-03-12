@@ -25,11 +25,11 @@ const ICON_MAP = {
 
 // 기본 데이터 (파일에는 문자열로 저장되지만 여기서는 컴포넌트로 변환)
 export const defaultConfig = {
-    logo: "챕하",
+    logo: "챕니",
     logoImage: "",
     showNavBar: true,
     showThemeToggle: true,
-    items: [{"name":"소개","url":"#hero","icon":"Home","show":true},{"name":"가입조건","url":"#about","icon":"User","show":true},{"name":"길드 활동","url":"#projects","icon":"Briefcase","show":true},{"name":"프로필","url":"#contact","icon":"Mail","show":true},{"name":"갤러리","url":"#gallery","icon":"Camera","show":false},{"name":"블로그","url":"#blog","icon":"Book","show":false}],
+    items: [{"name":"1","url":"#hero","icon":"Home","show":true},{"name":"2","url":"#about","icon":"User","show":true},{"name":"3","url":"#projects","icon":"Briefcase","show":true},{"name":"4","url":"#contact","icon":"Mail","show":true},{"name":"갤러리","url":"#gallery","icon":"Camera","show":false},{"name":"블로그","url":"#blog","icon":"Book","show":false}],
     siteTitle: "로챕스니트사가",
     siteDescription: "챕하"
   }
