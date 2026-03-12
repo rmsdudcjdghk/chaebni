@@ -38,8 +38,8 @@ export function Contact() {
     title: "당근마켓",
     company: "",
     experience: "",
-    phone: " ",
-    email: "",
+    phone: "인게임 친구가 아닌 분들은",
+    email: "쪽지 부탁드려요",
     website: "",
     location: " 챕명당",
     workTime: " 08:00~00:00",
@@ -60,12 +60,7 @@ export function Contact() {
     {
       "name": "새 링크",
       "icon": "globe",
-      "url": "https://vfun-ko.valofe.com/bridge/?islauncher=0&url=https%3A%2F%2Flostsaga-ko.valofe.com%2Fmain%2Fmain.asp&t=t"
-    },
-    {
-      "name": "새 링크",
-      "icon": "globe",
-      "url": "https://vfun-ko.valofe.com/bridge/?islauncher=0&url=https%3A%2F%2Flostsaga-ko.valofe.com%2Fmain%2Fmain.asp&t=t"
+      "url": "https://vfun-ko.valofe.com/bridge/?islauncher=0&url=https%3A%2F%2Flostsaga-ko.valofe.com%2Fcommunity%2Fview.asp%3Fgroup%3Dfree%26board%3D%26idx%3D5423906&t=t"
     }
   ]
   

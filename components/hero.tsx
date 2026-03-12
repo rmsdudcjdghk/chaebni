@@ -33,7 +33,7 @@ export function Hero() {
   const { getData, saveData, isEditMode, saveToFile, saveFieldToFile } = useInlineEditor()
   
   // 초기 데이터 - 배열 형태로 변경
-  const defaultSocialLinks = [{"name":"새 링크","icon":"globe","url":"https://vfun-ko.valofe.com/bridge/?islauncher=0&url=https%3A%2F%2Flostsaga-ko.valofe.com%2Fmain%2Fmain.asp&t=t"},{"name":"새 링크","icon":"globe","url":"https://vfun-ko.valofe.com/bridge/?islauncher=0&url=https%3A%2F%2Flostsaga-ko.valofe.com%2Fmain%2Fmain.asp&t=t"}]
+  const defaultSocialLinks = [{"name":"새 링크","icon":"globe","url":"https://vfun-ko.valofe.com/bridge/?islauncher=0&url=https%3A%2F%2Flostsaga-ko.valofe.com%2Fcommunity%2Fview.asp%3Fgroup%3Dfree%26board%3D%26idx%3D5423906&t=t"},{"name":"새 링크","icon":"globe","url":"https://vfun-ko.valofe.com/bridge/?islauncher=0&url=https%3A%2F%2Flostsaga-ko.valofe.com%2Fguild%2Fguestbook.asp%3F171655&t=t"}]
   
   const defaultInfo = {
     greeting: "분홍머리음양사",

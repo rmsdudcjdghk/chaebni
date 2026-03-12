@@ -26,7 +26,7 @@ export function Footer() {
     name: "챕니",
     description: "타임게이트 구세주입니다",
     showQuickLinks: true,
-    quickLinksTitle: "빠른 링크",
+    quickLinksTitle: "챕니",
     showContactInfo: true,
     contactTitle: "Hello World",
     phone: "print(\"Hello World\")",
