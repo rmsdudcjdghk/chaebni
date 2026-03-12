@@ -23,7 +23,7 @@ export function Footer() {
   // 기본 데이터
   const defaultInfo = {
     showFooter: true,
-    name: "박근영",
+    name: "챕니",
     description: "정상에서 만납시다.",
     showQuickLinks: true,
     quickLinksTitle: "빠른 링크",
@@ -31,8 +31,8 @@ export function Footer() {
     contactTitle: "연락처",
     phone: "010-3749-3251",
     email: "qkrrmsdud3251@naver.com",
-    location: "Hello World",
-    copyright: "",
+    location: " ",
+    copyright: "© 2026 챕니. All rights reserved.",
     showMadeWith: true,
     madeWithLocation: "Mrbaeksang",
     showTemplateCredit: true,

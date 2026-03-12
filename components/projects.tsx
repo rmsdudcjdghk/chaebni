@@ -13,12 +13,12 @@ export function Projects() {
   const { getData, saveData, isEditMode, saveToFile } = useInlineEditor()
   // 기본 데이터
   const defaultInfo = {
-    title: "프로젝트",
-    subtitle: "프로젝트",
-    initialDisplay: 2,
+    title: "당근마켓 길드에 가입해요",
+    subtitle: " ",
+    initialDisplay: 3,
     loadMoreCount: 3,
     background: {"image":"","video":"","color":"","opacity":0.1},
-    projects: [] as Array<{ image: string; video?: string; title: string; description: string }>
+    projects: [{"image":"/uploads/project-0-1773304673603.png","video":"","title":"가입안내","description":" "},{"image":"/uploads/project-1773304693041-1773304693056.png","video":"","title":"로사데이 선물이벤트","description":"웬만하면 매달 진행하고 있어요."},{"image":"/uploads/project-1773304725453-1773304725466.png","video":"","title":"주말 플레이","description":"당근마켓 길드원끼리만!  레이드, 몬던, 강시, 파밍 등을 함께해요."}] as Array<{ image: string; video?: string; title: string; description: string }>
   }
 
   const [projectsInfo, setProjectsInfo] = useState(defaultInfo)

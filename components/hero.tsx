@@ -33,18 +33,19 @@ export function Hero() {
   const { getData, saveData, isEditMode, saveToFile, saveFieldToFile } = useInlineEditor()
   
   // 초기 데이터 - 배열 형태로 변경
-  const defaultSocialLinks = [{"name":"instagram","icon":"instagram","url":"https://www.instagram.com/atthebiz2022/"},{"name":"티스토리","icon":"globe","url":"https://kksoup.tistory.com/"},{"name":"네이버 블로그","icon":"globe","url":"https://blog.naver.com/qkrrmsdud3251"},{"name":"이메일","icon":"mail","url":"qkrrmsdud3251@naver.com"}]
+  const defaultSocialLinks = [{"name":"새 링크","icon":"globe","url":"https://vfun-ko.valofe.com/bridge/?islauncher=0&url=https%3A%2F%2Flostsaga-ko.valofe.com%2Fmain%2Fmain.asp&t=t"},{"name":"새 링크","icon":"globe","url":"https://vfun-ko.valofe.com/bridge/?islauncher=0&url=https%3A%2F%2Flostsaga-ko.valofe.com%2Fmain%2Fmain.asp&t=t"}]
   
   const defaultInfo = {
-    greeting: "안녕하세요,",
-    name: "박근영 입니다",
-    title: "단국대학교 경영대학/소프트웨어대학",
-    description: "문과지옥에서 살아남기",
-    profileImage: "/uploads/hero-profile-1773244355702.jpg",
+    greeting: "분홍머리음양사",
+    name: "챕니",
+    title: "타임게이트 구세주",
+    description: "쾌적하게 로사하고싶다면 당근마켓 길드 가입!",
+    profileImage: "/uploads/hero-profile-1773303795060.jpg",
     backgroundImage: "",
     backgroundVideo: "",
     backgroundOpacity: 0.1,
-    projectButton: "프로젝트 보기"
+    projectButton: "Join us",
+    background: {"image":"","video":"","color":"#ff00ae","opacity":0.1}
   }
 
   const [backgroundData, setBackgroundData] = useState<{ image: string; video: string; color: string; opacity: number } | null>(null)

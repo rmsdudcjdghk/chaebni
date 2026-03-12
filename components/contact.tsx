@@ -34,24 +34,24 @@ export function Contact() {
   
   // 기본 데이터
   const defaultInfo = {
-    name: "박근영",
-    title: "",
+    name: "챕니",
+    title: "당근마켓",
     company: "",
     experience: "",
-    phone: "010-3749-3251",
-    email: "qkrrmsdud3251@naver.com",
+    phone: " ",
+    email: "",
     website: "",
-    location: "경기 용인시 기흥구",
-    workTime: "평일 09:00 - 18:00",
-    responseTime: "24시간 이내 응답",
+    location: " 챕명당",
+    workTime: " 08:00~00:00",
+    responseTime: "친구 외 채팅끄기",
     sectionTitle: "연락처",
     sectionSubtitle: "프로젝트 문의나 협업 제안을 기다리고 있습니다. 편하신 방법으로 연락주세요!",
     qrTitle: "QR 코드로 연락처 저장",
     qrSubtitle: "스캔하면 연락처가 자동으로 저장됩니다",
     bottomMessage: "정상에서 만납시다.",
-    bottomSubMessage: "No sacrifice too great.",
+    bottomSubMessage: "로퀴벌레로부터의 해방을!",
     qrContent: ["name","phone","email","location","website"],
-    profileEmoji: "👤",
+    profileEmoji: "🥕",
     background: {"image":"","video":"","color":"","opacity":0.1}
   }
   
@@ -59,18 +59,13 @@ export function Contact() {
   const defaultSocialLinks: { name: string; icon: string; url: string }[] = [
     {
       "name": "새 링크",
-      "icon": "instagram",
-      "url": "https://www.instagram.com/atthebiz2022/"
+      "icon": "globe",
+      "url": "https://vfun-ko.valofe.com/bridge/?islauncher=0&url=https%3A%2F%2Flostsaga-ko.valofe.com%2Fmain%2Fmain.asp&t=t"
     },
     {
       "name": "새 링크",
       "icon": "globe",
-      "url": "https://kksoup.tistory.com/"
-    },
-    {
-      "name": "새 링크",
-      "icon": "globe",
-      "url": "https://blog.naver.com/qkrrmsdud3251"
+      "url": "https://vfun-ko.valofe.com/bridge/?islauncher=0&url=https%3A%2F%2Flostsaga-ko.valofe.com%2Fmain%2Fmain.asp&t=t"
     }
   ]
   
