@@ -100,7 +100,7 @@ export function About() {
     subtitle: "제 신원이 특정되지 않는 선에서요",
     background: {"image":"","video":"","color":"","opacity":0.1},
     experienceCards: [{"icon":"user","title":"from State College, PA","period":"2015","description":" "},{"icon":"user","title":"대한민국 입국","period":"2015","description":" "}],
-    skills: [{"icon":"star","title":"낚시충","description":" "},{"icon":"star","title":"룩딸러","description":" "},{"icon":"star","title":"","description":"스킬 설명"}],
+    skills: [{"icon":"star","title":"낚시충","description":" "},{"icon":"star","title":"룩딸러","description":" "},{"icon":"star","title":"유쾌함","description":""}],
     storyTitle: "쾌적한 로스트사가 하는 법 특강",
     story: ["1. 반드시 ' 친구 외 채팅끄기 ' 기능을 ON 할 것.","2. 1법칙을 절대 어기지 말 것.","3. 당근마켓 길드에 가입할 것."],
     storyImage: "/uploads/about-image-1773304539345.jpg",
