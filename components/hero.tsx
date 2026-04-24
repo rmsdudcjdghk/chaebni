@@ -39,13 +39,13 @@ export function Hero() {
     greeting: "분홍머리음양사",
     name: "챕니",
     title: "타임게이트 구세주",
-    description: "설명할 시간이 없어! 어서 타!",
-    profileImage: "/uploads/hero-profile-1773303795060.jpg",
+    description: "로스트사가에서 가장 유명한 클린유저, 챕니입니다.",
+    profileImage: "/uploads/hero-profile-1777035621847.png",
     backgroundImage: "",
     backgroundVideo: "",
     backgroundOpacity: 0.1,
     projectButton: "Get on board",
-    background: {"image":"","video":"","color":"#fa0092","opacity":0.1}
+    background: {"image":"","video":"","color":"#004cff","opacity":0.1}
   }
 
   const [backgroundData, setBackgroundData] = useState<{ image: string; video: string; color: string; opacity: number } | null>(null)

@@ -35,23 +35,23 @@ export function Contact() {
   // 기본 데이터
   const defaultInfo = {
     name: "챕니",
-    title: "당근마켓",
+    title: "당근마켓 길드장",
     company: "",
     experience: "",
     phone: "친구가 아닌 분들은",
     email: "쪽지 부탁드려요",
-    website: "",
+    website: "https://chaebni.vercel.app/",
     location: " 챕명당",
-    workTime: " 08:00~00:00",
-    responseTime: "친구 외 채팅끄기",
+    workTime: "낚시터 오픈 : 09시~00시",
+    responseTime: "친구 외 채팅끄기 Always ON",
     sectionTitle: "Hi",
     sectionSubtitle: "Hi",
     qrTitle: "QR 코드로 연락처 저장",
     qrSubtitle: "스캔하면 연락처가 자동으로 저장됩니다",
-    bottomMessage: "고아새끼들이 판치는 2026년의 로스트사가를 구원할 타임게이트 구세주, 챕니입니다.",
-    bottomSubMessage: "챕니의 비전에 합류하라",
+    bottomMessage: "고아들의 좆목이 판치는 2026년 로스트사가를 구원할 타임게이트 구세주, 챕니입니다.",
+    bottomSubMessage: "로스트사가 최고 낚시 명당 챕명당",
     qrContent: ["name","phone","email","location","website"],
-    profileEmoji: "👽",
+    profileEmoji: "😻",
     background: {"image":"","video":"","color":"","opacity":0.1}
   }
   
@@ -60,12 +60,12 @@ export function Contact() {
     {
       "name": "새 링크",
       "icon": "globe",
-      "url": "https://vfun-ko.valofe.com/bridge/?islauncher=0&url=https%3A%2F%2Flostsaga-ko.valofe.com%2Fmyhomepy%2Fgame_info.asp%3Fmaster%3D1359c3cc8ebaa9&t=t"
+      "url": "https://vfun-ko.valofe.com/bridge/?islauncher=0&url=https%3A%2F%2Flostsaga-ko.valofe.com%2Fguild%2Fguestbook.asp%3F171655&t=t"
     },
     {
       "name": "새 링크",
       "icon": "globe",
-      "url": "https://vfun-ko.valofe.com/bridge/?islauncher=0&url=https%3A%2F%2Flostsaga-ko.valofe.com%2Fguild%2Fguestbook.asp%3F171655&t=t"
+      "url": "https://vfun-ko.valofe.com/bridge/?islauncher=0&url=https%3A%2F%2Flostsaga-ko.valofe.com%2Fmyhomepy%2Fgame_info.asp%3Fmaster%3D1359c3cc8ebaa9&t=t"
     }
   ]
   

@@ -99,11 +99,11 @@ export function About() {
     title: "챕명당",
     subtitle: " ",
     background: {"image":"","video":"","color":"","opacity":0.1},
-    experienceCards: [{"icon":"star","title":"챕명당 비밀번호","period":"비밀번호 : 챕니","description":"(수시 변경될 수 있습니다)"}],
+    experienceCards: [{"icon":"star","title":"챕명당 비밀번호","period":"비밀번호 : 챕니","description":"(수시 변경될 수 있습니다)"},{"icon":"star","title":"챕명당 마감시간","period":"방제에 명시 or 쪽지로 물어봐주세요","description":"(말씀드린 시간을 절대 어기지 않습니다)"}],
     skills: [{"icon":"star","title":"낚시충","description":"낚시터는 길드장이 구매해요."},{"icon":"star","title":"룩딸러","description":"스킨과 코스튬이 중요해요."},{"icon":"star","title":"유쾌함","description":"승패가 중요하지 않아요."}],
     storyTitle: "쾌적한 로스트사가 하는 법 특강",
-    story: ["1. 반드시 설정에서 \"친구 외 채팅끄기\" 기능을 ON 할 것.","2. 제 1법칙을 절대 어기지 말 것.","3. 챕니랑 친추할 것.","4. 당근마켓 길드에 가입할 것."],
-    storyImage: "/uploads/about-image-1773304539345.jpg",
+    story: ["1. 반드시 설정에서 \"친구 외 채팅끄기\" 기능을 ON 할 것.","2. 제 1법칙을 절대 어기지 말 것.","3. 챕니랑 친추할 것.","4. 당근마켓 길드에 가입할 것.","5. 마감시간 구라없는 챕명당에서 확실한 낚시를 할 것.","6. 길드에 가입하지 않아도 저와 친하게 지내고싶은 분들은 쪽지주세요!"],
+    storyImage: "/uploads/about-image-1777035641221.png",
     hobbies: ["🎨 스킨","🐟 낚시","❤️ 룩딸"]
   }
   

@@ -30,8 +30,8 @@ export const defaultConfig = {
     showNavBar: true,
     showThemeToggle: true,
     items: [{"name":"1","url":"#hero","icon":"Home","show":true},{"name":"2","url":"#about","icon":"User","show":true},{"name":"3","url":"#projects","icon":"Briefcase","show":true},{"name":"4","url":"#contact","icon":"Mail","show":true},{"name":"갤러리","url":"#gallery","icon":"Camera","show":false},{"name":"블로그","url":"#blog","icon":"Book","show":false}],
-    siteTitle: "로챕스니트사가",
-    siteDescription: "챕하"
+    siteTitle: "로스트사가 챕니",
+    siteDescription: "lostsaga_chaebni"
   }
 
 export function Header() {
