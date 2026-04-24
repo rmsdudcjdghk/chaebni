@@ -39,7 +39,7 @@ export function Hero() {
     greeting: "분홍머리음양사",
     name: "챕니",
     title: "타임게이트 구세주",
-    description: "로스트사가에서 가장 유명한 클린유저, 챕니입니다.",
+    description: "2026 유저들이 뽑은 로스트사가 클린유저 1위 수상",
     profileImage: "/uploads/hero-profile-1777035621847.png",
     backgroundImage: "",
     backgroundVideo: "",
